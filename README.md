@@ -28,11 +28,10 @@ Comencé a aprender programación desde cero.
 
 Actualmente estoy enfocado en:
 
-• JavaScript
-• Python
-• SQL
-• Git y GitHub
-
+• Java
+• MySQL
+• SpringBoot
+     
 Mi objetivo es convertirme en desarrollador
 profesional construyendo proyectos reales
 y mejorando cada día.
