@@ -5,10 +5,6 @@
 <pre>
 19 años
 estudiante de desarrollo de software
-
-5 meses escribiendo código
-aprendiendo desde cero
-construyendo proyectos reales
 </pre>
 
 <br>
