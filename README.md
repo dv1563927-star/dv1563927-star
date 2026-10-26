@@ -43,15 +43,11 @@ y mejorando cada día.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML-E63946?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-<img src="https://img.shields.io/badge/CSS-E63946?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-<img src="https://img.shields.io/badge/JavaScript-E63946?style=for-the-badge&logo=javascript&logoColor=white">
-
-<img src="https://img.shields.io/badge/Python-E63946?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-E63946?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 </p>
 
