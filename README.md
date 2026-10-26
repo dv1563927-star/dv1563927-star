@@ -31,7 +31,7 @@ Actualmente estoy enfocado en:
 • Java
 • MySQL
 • SpringBoot
-     
+
 Mi objetivo es convertirme en desarrollador
 profesional construyendo proyectos reales
 y mejorando cada día.
@@ -107,20 +107,6 @@ y mejorando cada día.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 </p>
-
----
-
-## // APRENDIENDO ACTUALMENTE
-
-<pre>
-Java
-
-SpringBoot
-
-MySQL
-
-Arquitectura de software
-</pre>
 
 ---
 
