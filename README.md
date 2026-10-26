@@ -57,32 +57,6 @@ y mejorando cada día.
 
 ---
 
-## // PROGRESO ACTUAL
-
-<pre>
-[✓] Java
-
-[✓] SpringBoot
-
-[✓] MySQL
-
-[✓] HTML
-
-[✓] CSS
-
-[~] Git
-
-[~] GitHub
-
-[ ] Backend
-
-[ ] APIs
-
-[ ] Frameworks
-</pre>
-
----
-
 ## // PROYECTOS DESTACADOS
 
 <pre>
@@ -102,6 +76,12 @@ y mejorando cada día.
 
      Proyecto educativo enfocado
      en seguridad y rutas escolares.
+
+
+[04] TechnoStore
+
+     Programa de consola en Java
+     para gestión de productos y ventas.
 </pre>
 
 ---
