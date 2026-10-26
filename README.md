@@ -43,6 +43,10 @@ y mejorando cada día.
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -56,17 +60,19 @@ y mejorando cada día.
 ## // PROGRESO ACTUAL
 
 <pre>
+[✓] Java
+
+[✓] SpringBoot
+
+[✓] MySQL
+
 [✓] HTML
 
 [✓] CSS
 
-[✓] Git
+[~] Git
 
-[✓] GitHub
-
-[~] JavaScript
-
-[~] SQL
+[~] GitHub
 
 [ ] Backend
 
@@ -106,7 +112,19 @@ y mejorando cada día.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dv1563927-star&show_icons=true&hide_border=true&bg_color=00000000&title_color=e63946&text_color=e6e6e6&icon_color=e63946">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv1563927-star&layout=compact&hide_border=true&bg_color=00000000&title_color=e63946&text_color=e6e6e6">
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 </p>
 
@@ -115,13 +133,13 @@ y mejorando cada día.
 ## // APRENDIENDO ACTUALMENTE
 
 <pre>
-JavaScript
+Java
 
-SQL
+SpringBoot
+
+MySQL
 
 Arquitectura de software
-
-Resolución de problemas
 </pre>
 
 ---
